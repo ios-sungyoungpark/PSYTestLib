@@ -1,0 +1,6 @@
+framework module PSYTestLib {
+  umbrella header "PSYTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

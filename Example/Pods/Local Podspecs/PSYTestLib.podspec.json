@@ -1,0 +1,22 @@
+{
+  "name": "PSYTestLib",
+  "version": "0.1.0",
+  "summary": "A short description of PSYTestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ios-sungyoungpark/PSYTestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ios-sungyoungpark": "doitdev4449@chosunbiz.com"
+  },
+  "source": {
+    "git": "https://github.com/ios-sungyoungpark/PSYTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PSYTestLib/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - PSYTestLib (0.1.0)
+
+DEPENDENCIES:
+  - PSYTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  PSYTestLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PSYTestLib: 2ab09bdd3b10f2411f3bf56606b76f128e3f912d
+
+PODFILE CHECKSUM: 12dae9de2775b8a51abce7614c9c2068f4df8ad6
+
+COCOAPODS: 1.15.2
