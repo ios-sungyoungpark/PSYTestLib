@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PSYTestLib_Example' do
+  pod 'PSYTestLib', :path => '../'
+
+  target 'PSYTestLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
