@@ -17,7 +17,7 @@ PSYTestLib is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'PSYTestLib'
+pod 'PSYTestLib', :git => 'https://github.com/ios-sungyoungpark/PSYTestLib.git', :tag => '0.1.0'
 ```
 
 ## Author
